@@ -1,6 +1,10 @@
+body{
+  background-color: #F1F5FE;
+}
 #root{
   margin:0;
   box-sizing: border-box;
   display: flex;
   justify-content: center;
+  
 }
